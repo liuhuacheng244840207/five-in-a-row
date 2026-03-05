@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="五子棋/五子棋.vcxproj" Id="23096293-2461-45d8-bcf8-1aab7fadb1de" />
+</Solution>
